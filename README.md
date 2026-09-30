@@ -1,196 +1,227 @@
 <div align="center">
 
-# 👋 Hey, I'm Allison Masih
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7B2FFF,100:00F5A0&height=220&section=header&text=ALLISON%20MASIH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Builder%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" />
 
-### 💻 Full-Stack Developer • B.Tech CSE Student • Builder
+<br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-6C63FF?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-00C9A7?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20To%20Opportunities-00BFFF?style=for-the-badge&logo=rocket&logoColor=white" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00C9FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Allison+Masih+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;B.Tech+CSE+Student+%F0%9F%8E%93;I+build+things+that+actually+work+%F0%9F%9A%80;Turning+ideas+into+real-world+products+%E2%9A%A1" />
 
-<p>
-  <a href="https://github.com/allison-masih">
-    <img src="https://img.shields.io/github/followers/allison-masih?label=Followers&style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/allison-masih?tab=repositories">
-    <img src="https://img.shields.io/github/stars/allison-masih?affiliations=OWNER&style=for-the-badge&logo=github" />
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/allison-masih">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:azharuddin.sg@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=allison-masih&style=for-the-badge&color=7B2FFF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 Who Am I?
 
-I'm **Allison Masih**, a Computer Science Engineering student and passionate developer who enjoys turning ideas into real-world applications.
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   👋 Hey! I'm Allison Masih                              │
+│                                                          │
+│   🎓 B.Tech CSE Student                                  │
+│   💻 Full-Stack Developer                                │
+│   ⚛️  React / Next.js Enthusiast                         │
+│   🤖 Exploring AI & intelligent applications              │
+│   🚀 Building real-world projects                         │
+│   🧠 Learning something new every day                    │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
-* 🎓 Pursuing **B.Tech in Computer Science Engineering**
-* 💻 Interested in **Full-Stack Development**
-* ⚛️ Building applications with **React & Next.js**
-* 🧠 Exploring **AI, backend systems & modern web technologies**
-* 🛠️ Love building practical projects and learning by doing
-* 🚀 Currently improving my development and problem-solving skills
-* 🌱 Always learning something new
+I enjoy taking an idea from **“what if?” → working product**.
+
+My main interests are **modern web development, AI-powered applications, backend systems and problem solving.**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Universe
+
+<div align="center">
 
 ### 🎨 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite&perline=8" />
+
+<br/><br/>
 
 ### ⚙️ Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,php&perline=8" />
+
+<br/><br/>
 
 ### 🗄️ Database & Cloud
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,aws&perline=8" />
 
-### 💻 Programming Languages
+<br/><br/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,javascript" />
-</p>
+### 🧠 Languages
 
-### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,php,js,ts&perline=8" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
+<br/><br/>
 
----
+### 🛠️ Tools
 
-## 🌟 Featured Projects
-
-### 🧠 MCQ Master
-
-A multi-subject quiz platform designed for students to practice and test their knowledge through interactive MCQs.
-
-**Tech:** React • Firebase • JavaScript
-
----
-
-### 🔎 LPU Lost & Found
-
-A campus-focused platform for reporting and finding lost belongings.
-
-**Tech:** PHP • MySQL • Bootstrap
-
----
-
-### 🎁 Gift Box Paradise
-
-An e-commerce concept for selling customized gift boxes with product and order management.
-
-**Tech:** PHP • MySQL • HTML • CSS • JavaScript
-
----
-
-### 🤖 Lura — AI Life Assistant
-
-A modern AI-powered life assistant concept designed to bring productivity, personalization and everyday utilities together.
-
-**Tech:** Next.js • TypeScript • Tailwind CSS • Prisma • PostgreSQL • AI
-
----
-
-### 🌐 Personal Portfolio
-
-A colorful and interactive developer portfolio showcasing my skills, projects, experience and journey as a developer.
-
-**Tech:** Next.js • Tailwind CSS • Framer Motion
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=allison-masih&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allison-masih&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma&perline=8" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+## 🚀 Things I've Built
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=allison-masih&theme=tokyonight&hide_border=true&border_radius=12" />
+|        🚀 Project        | 💡 What it does                         |       🛠️ Stack       |
+| :----------------------: | :-------------------------------------- | :-------------------: |
+|     🧠 **MCQ Master**    | Interactive multi-subject quiz platform |    React • Firebase   |
+|  🔎 **LPU Lost & Found** | Campus lost & found management          |      PHP • MySQL      |
+| 🎁 **Gift Box Paradise** | Gift box e-commerce platform            |      PHP • MySQL      |
+|        🤖 **Lura**       | AI-powered life assistant concept       | Next.js • Prisma • AI |
+|     🌐 **Portfolio**     | Interactive developer portfolio         |   Next.js • Tailwind  |
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🧠 Currently Exploring
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=allison-masih&theme=tokyo-night&hide_border=true&area=true" />
+`AI` • `Next.js` • `System Design` • `DSA` • `Cloud` • `Backend Architecture`
 
 </div>
 
----
-
-## 🎯 What I'm Working On
+<br/>
 
 ```text
-╭────────────────────────────────────────────╮
-│                                            │
-│  🚀 Building real-world web applications  │
-│  ⚛️  Improving React & Next.js skills      │
-│  🧠 Exploring AI-powered applications      │
-│  💾 Learning scalable backend systems      │
-│  📚 Strengthening DSA & problem solving    │
-│                                            │
-╰────────────────────────────────────────────╯
+                 BUILDING
+                    │
+                    ▼
+              ┌───────────┐
+              │    💡     │
+              │   IDEA    │
+              └─────┬─────┘
+                    │
+                    ▼
+              ┌───────────┐
+              │    💻     │
+              │   CODE    │
+              └─────┬─────┘
+                    │
+                    ▼
+              ┌───────────┐
+              │    🧪     │
+              │   TEST    │
+              └─────┬─────┘
+                    │
+                    ▼
+              ┌───────────┐
+              │    🚀     │
+              │  DEPLOY   │
+              └───────────┘
 ```
 
 ---
 
-## 💡 My Development Philosophy
-
-> **Learn → Build → Break → Fix → Improve → Repeat.**
-
-I believe the best way to learn technology is to build real things with it.
-
----
-
-## 🤝 Let's Connect
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/allison-masih">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=allison-masih&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&include_all_commits=true" />
 
-<a href="mailto:azharuddin.sg@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allison-masih&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8" />
 
 </div>
 
 ---
 
+## 🔥 Coding Streak
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://streak-stats.demolab.com?user=allison-masih&theme=tokyonight&hide_border=true&border_radius=15" />
 
-**Let's build something awesome together. 🚀**
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=allison-masih&style=for-the-badge&color=blueviolet" />
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=allison-masih&bg_color=0D1117&color=00C9FF&line=7B2FFF&point=00F5A0&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+## 💭 My Developer Mindset
+
+<div align="center">
+
+### **"Don't just learn technology. Build with it."**
+
+<br/>
+
+**Learn → Build → Break → Debug → Improve → Repeat 🔁**
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+```text
+☑ Build more real-world applications
+☑ Become stronger in Full-Stack Development
+☐ Master DSA & Problem Solving
+☐ Build production-grade AI applications
+☐ Improve System Design
+☐ Contribute to Open Source
+☐ Build something people actually use
+```
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/allison-masih">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:azharuddin.sg@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:7B2FFF,100:00C9FF&height=120&section=footer"/>
 
 </div>
